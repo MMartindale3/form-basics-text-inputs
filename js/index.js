@@ -1,7 +1,6 @@
 console.log("javascript starts running");
 
 const profileForm = document.querySelector("#profile-form");
-// console.log(profileForm);
 profileForm.addEventListener("submit", onUpdateProfile);
 
 
